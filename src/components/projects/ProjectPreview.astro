@@ -28,7 +28,7 @@ const postDate = project.data.updatedDate ?? project.data.publishDate;
 		</a>
 	)
 }
-<FormattedDate date={postDate} class="min-w-[120px] text-gray-500" />
+<FormattedDate date={postDate} class="w-full min-w-[120px] text-gray-500" />
 <Tag>
 	<a href={`/projects/${project.slug}/`} class="cactus-link font-bold" rel="prefetch">
 		{project.data.title}

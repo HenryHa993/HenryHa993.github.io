@@ -1,6 +1,6 @@
 ---
-title: "RPS - AR Card Battler"
-description: "An augmented reality card game, built in Unity and C#."
+title: "AR Card Battler - Group Project"
+description: "Working around the limitations of marker tracking to deliver an interactive card battler."
 publishDate: "5 Jan 2025"
 coverImage:
     src: "./ARCardCover.jpg"

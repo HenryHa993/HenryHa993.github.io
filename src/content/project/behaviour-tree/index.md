@@ -1,6 +1,6 @@
 ---
-title: "A Better Behaviour Tree - System"
-description: "An improved behaviour tree from the SFAS contest. Made with C++."
+title: "Improved Behaviour Tree - Tools"
+description: "Memory access improvements, fixing memory leaks and general improvements."
 publishDate: "15 Jun 2024"
 coverImage:
     src: "./bt-cover.png"
@@ -8,7 +8,7 @@ coverImage:
 coverGif:
     src: "./bt-cover.png"
     alt: "Code cover image"
-tags: ["c++", "coroutines", "behaviour-trees", "tools-dev"]
+tags: ["c++", "behaviour-trees", "tools-dev"]
 draft: false
 relatedPosts: []
 ---

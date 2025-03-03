@@ -1,6 +1,6 @@
 ---
 title: "Terminal - UE5 Shooter"
-description: "A horror shooter game with an emphasis on AI behaviour trees. Built using UE5 and C++."
+description: "Utilising Unreal Engine's behaviour tree and Environment Query System."
 publishDate: "11 Feb 2024"
 coverImage:
     src: "./TerminalCover.png"

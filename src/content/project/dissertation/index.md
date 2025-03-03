@@ -1,6 +1,6 @@
 ---
 title: "Procedural Animation Library - Dissertation"
-description: "A procedural animation library built to work with Unity's 2D animation package."
+description: "Utilising A* Pathfinding, behaviour tree techniques and procedural animations."
 publishDate: "19 Jun 2023"
 coverImage:
     src: "./level.png"
@@ -14,7 +14,7 @@ relatedPosts: []
 ---
 
 Check out the **Library's**
-- 💾 [**Project Files**](https://github.com/HenryHa993/EscapeGhoulPrison)
+- 💾 [**Project Files**](https://github.com/HenryHa993/Project-AC)
 - 📃 [**Dissertation**](/PALibraryDissertation.pdf)
 
 ## About

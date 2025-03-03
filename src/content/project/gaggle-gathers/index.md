@@ -1,5 +1,5 @@
 ---
-title: "The Gaggle Gathers - WGJ23"
+title: "The Gaggle Gathers - Warwick Game Jam 23"
 description: "A collaborative Unity project for the 2023 Warwick Game Jam."
 publishDate: "9 Feb 2023"
 coverImage:

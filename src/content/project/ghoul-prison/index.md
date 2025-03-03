@@ -1,6 +1,6 @@
 ---
 title: "Escape Ghoul Prison - SFAS Competition Finalist"
-description: "An intense observation game which implements my own behaviour tree implementation, built with C++ and Directx only."
+description: "Features my own behaviour tree implementation utilising coroutines, built with C++ and Directx only."
 publishDate: "21 Jan 2024"
 coverImage:
     src: "./ghoul-prison-cover.png"
@@ -8,7 +8,7 @@ coverImage:
 coverGif:
     src: "./ghoulprison.gif"
     alt: "Ghoul prison cover gif"
-tags: ["directx", "c++", "coroutines", "behaviour-trees", "tools-dev"]
+tags: ["directx", "c++", "behaviour-trees", "tools-dev"]
 draft: false
 relatedPosts: ["sfas-retro"]
 ---
