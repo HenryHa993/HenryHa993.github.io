@@ -10,7 +10,7 @@ import { remarkReadingTime } from "./src/utils/remark-reading-time";
 // https://astro.build/config
 export default defineConfig({
 	// ! Please remember to replace the following site property with your own domain
-	site: "https://ddha.dev",
+	site: "https://dhha.dev",
 	//base: "/HenryHa993.github.io",
 	markdown: {
 		remarkPlugins: [remarkUnwrapImages, remarkReadingTime],
