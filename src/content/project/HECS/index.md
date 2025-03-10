@@ -9,7 +9,7 @@ coverGif:
     src: "./hecs-cover.png"
     alt: "Hecs Cover Image"
 tags: ["c++", "ECS", "tools-dev","in-progress"]
-draft: true
+draft: false
 relatedPosts: []
 ---
 
