@@ -112,7 +112,7 @@ When removing entity components, the sparse array swaps the last element in the 
 
 ### Storing Pools of Components
 
-Another challenge I came across was how to store component pools of different types in the same data structure. When learning about templates, I read that it was useful to think of it as "compile-time polymorphism". For some reason, this made me think that it was somehow incompatible with regular polymorphism, so when I saw code combining both to store pools of components, I thought it was freaky.
+Another challenge I came across was how to store component pools of different types in the same data structure. When learning about templates, I read that it was useful to think of it as "compile-time polymorphism". Combining both compile and runtime polymorphism, we can register components and proceed to operate on them in the ECS manager.
 
 ```cpp
 class World{
