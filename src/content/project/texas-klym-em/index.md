@@ -1,6 +1,6 @@
 ---
 title: "Texas Klym Em - Climbing Simulator"
-description: "Working around the limitations of marker tracking to deliver an interactive card battler."
+description: "A western climbing puzzler, exploring the play of climbing!"
 publishDate: "8 Oct 2024"
 coverImage:
     src: "./texas-cover.png"
